@@ -1,0 +1,34 @@
+_repo: Rodeo_70849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2023-05-27'
+identifiers:
+  gutenberg: '70849'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV064N0219271001
+pgterms:marc905: 20230220063432tuttle
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aUnited States :$bThe Butterick Publishing Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Rodeos -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Rodeo
+url: http://www.gutenberg.org/ebooks/70849
